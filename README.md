@@ -89,7 +89,6 @@ This approach helped me strengthen my ability to approach unfamiliar problems, w
 ## 🛠️ Technologies
 
 * **C++**
-* Object-Oriented Programming concepts
 * Algorithms & Problem Solving
 * Visual Studio / C++ development tools
 
