@@ -39,7 +39,6 @@ These projects demonstrate the ability to combine multiple programming concepts 
 * Clean Code
 * Divide & Conquer
 * Functions & Modular Programming
-* Data Structures
 * Debugging
 * Code Organization
 * Translating requirements into working solutions
